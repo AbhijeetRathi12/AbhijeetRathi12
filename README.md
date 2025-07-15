@@ -1,7 +1,7 @@
 # Hi there, I'm Abhijeet Rathi! 👋  
 🚀 **Robotics Engineer | Computer Vision | Deep Learning | Motion Planning | Robotic Control**  
 
-I'm a **Master's student in Robotics Engineering at Worcester Polytechnic Institute (WPI)** with a **4.00/4.00 GPA**. My research focuses on **robotic object rearrangement for waste sorting**, where I use **a Franka Panda robotic arm on conveyor belts** to improve visibility and detection.  
+I'm a recently graduated **Master's student in Robotics Engineering from Worcester Polytechnic Institute (WPI)** with a **4.00/4.00 GPA**. My research focuses on **robotic object rearrangement for waste sorting**, where I use **a Franka Panda robotic arm on conveyor belts** to improve visibility and detection.  
 
 ### 🔍 **What I Work On**  
 - 🤖 **Robotic Manipulation & Object Rearrangement**  
